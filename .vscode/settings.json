@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "calcbin.h": "c",
+        "math.h": "c"
+    }
+}
